@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+The steps to install and configure Tailwind CSS can be found here: https://flowbite.com/docs/getting-started/next-js/ 
+
 ## Getting Started
 
 First, run the development server:
